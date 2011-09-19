@@ -1,3 +1,3 @@
 source :rubygems
 gem 'engineyard'
-gem 'goliath'
+gem 'goliath', :git => 'git://github.com/postrank-labs/goliath.git'
